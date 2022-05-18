@@ -1,3 +1,6 @@
+// Group: Duong Duy Nhu
+// Code by duong vjp
+
 #pragma once
 #include <iostream>
 #include <string>
