@@ -1,5 +1,5 @@
 // Group: Duong Duy Nhu
-// Code by duong vjp
+// Code by duong kaiba
 
 #pragma once
 #include <iostream>
