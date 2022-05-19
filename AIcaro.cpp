@@ -116,7 +116,7 @@ void playWithAI()
         //badMove(gb);
         if (checkVictory(gb) == O_VAL)
         {   
-            cout << "You lose!!! Ga vl :')))";
+            cout << "You lose!!! ";
             break;
         }
     } while (checkVictory(gb) == NO_VAL);
