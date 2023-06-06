@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duong Kaiba</h1>
 <h3 align="center">I'm student at University of Technology in Ho Chi Minh City - VietNam.</h3>
-
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://thumbs.gfycat.com/DeficientPartialGermanspitz-size_restricted.gif)"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duonguwu&label=Profile%20views&color=0e75b6&style=flat" alt="duonguwu" /> </p>
 
 - 🔭 I’m currently working on [Web Sneaker (Back-end)](https://github.com/DiiKhanh/is216-java-sneaker)
