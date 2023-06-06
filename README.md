@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duong Kaiba</h1>
-<h3 align="center">I'm student in University of Technology Ho Chi Minh.</h3>
+<h3 align="center">I'm student in University of Technology of Ho Chi Minh City.</h3>
 
 - 🔭 I’m currently working on [Web Sneaker (Back-end)](https://github.com/DiiKhanh/is216-java-sneaker)
 
