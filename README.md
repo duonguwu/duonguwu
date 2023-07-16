@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **duongnguyen4823@gmail.com**
 
-- ⚡ Fun fact **I like reading book about psychology lol**
+- ⚡ Fun fact **I like reading book about psychology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
