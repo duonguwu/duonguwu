@@ -8,6 +8,7 @@
 ## 1. Tạo bảng (Huy với Duy)
  - Tiến hành viết code SQL tạo bảng như theo đề đã cho, **học kĩ** cấu trúc code tạo bảng trong Oracle/Sql plus. Kiểu dữ liệu từng trường.
  - Tự viết trước Trigger và Procedure, không biết viết thì xem chatgpt rồi học thuộc nhé, ráng mà hiểu.
+ - Cần hiểu lệnh Create role, grant để gán quyền, gán role cho user
 ## Lời giải ví dụ:
 ## Các bước thực hiện:
 ### 1. Tạo user admin làm quản lý:
@@ -82,7 +83,7 @@ BEGIN
 END;
 /
 ```
-## Thực hiện kết nối:
+## 2. Thực hiện kết nối:
 - Tắt tường lửa, chạy cmd, chạy notepad bằng quyền của admin.
 - Ở 2 máy, bắt đầu sửa file host ***(system32/driver/etc)***. Thêm địa chỉ ip vào cả 2 máy:
       Để ip máy B ở trên máy A
