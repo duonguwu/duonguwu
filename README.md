@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/DeficientPartialGermanspitz-size_restricted.gif"/>
 
 
-- 🔭 I’m currently working on [Web Sneaker (Back-end)](https://github.com/DiiKhanh/is216-java-sneaker)
+- 🔭 I’m currently working on [Website MatViet](https://github.com/duonguwu/frontend_web_hk4)
 
-- 🌱 I’m currently learning **Flutter and Computer Vision**
+- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **Spring boot**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **duongnguyen4823@gmail.com**
 
