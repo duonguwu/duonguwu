@@ -3,16 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/DeficientPartialGermanspitz-size_restricted.gif"/>
 
 
-- 🔭 I’m currently working on [Website MatViet](https://github.com/duonguwu/frontend_web_hk4)
-
-- 🌱 I’m currently learning **Laravel**
-
-- 💬 Ask me about ****
-
-- 📫 How to reach me **duongnguyen4823@gmail.com**
-
-- ⚡ Fun fact **I like reading book about psychology**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/duongkaiba23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duongkaiba23" height="30" width="40" /></a>
